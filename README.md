@@ -1,8 +1,8 @@
 ## Description
 
-CRUD API creation using [NestJS](https://docs.nestjs.com/) a Node.js backend framework in TypeScript\
+CRUD API creation using [NestJS](https://docs.nestjs.com/), a Node.js backend framework in TypeScript\
 Routes generated using the microframework [nestjsx CRUD](https://github.com/nestjsx/crud)\
-[Swagger Configuration](https://docs.nestjs.com/openapi/introduction) documentation and for testing routes\
+[Swagger Configuration](https://docs.nestjs.com/openapi/introduction) documentation and for testing routes
 
 ## Installation
 
